@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anjani1796
-- 👀 I’m interested in Python, FLASK, Django, JavaScript, Data Structures and Algorithms
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Python, Microservices, REST APIs, BigData, CI/CD, AWS Pro
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on Artificial Intelligence and GenAI model creation
 - 📫 How to reach me - my email Id i.e. anjanidubey1796@gmail.com
 
 <!---
